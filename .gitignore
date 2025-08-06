@@ -1,3 +1,6 @@
 *.log
 logs/*
 !rare_critical_logs.log
+first_project/
+git_repo_copy/
+github_via_ssh/
